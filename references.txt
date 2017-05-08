@@ -1,0 +1,3 @@
+https://prashantkulkarni17.wordpress.com/2011/09/20/calculator-using-yacc/
+http://vijayeduc.blogspot.com.co/2013/12/evaluation-of-boolean-expression-2013.html
+http://basicodingfordummies.blogspot.com.co/2014/04/yacc-program-to-detect-palindrome.html
